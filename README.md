@@ -50,7 +50,7 @@ There is no test information for this application at this time.
 and run `npm run test` from the command line.
 
 ## Demo Video
-Visit YouTube [here](https://youtu.be/MdHFXr06qhg) to view a demonstration video of how to install the application.
+
     
 
 ## Credits
