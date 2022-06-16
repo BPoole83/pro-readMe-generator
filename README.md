@@ -24,6 +24,7 @@ npm inquirer
 After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder. 
     
 ### Screenshots
+![Capture](https://user-images.githubusercontent.com/102924794/174169352-1bacaaa0-59b1-4ca5-89f7-b7236e7729d0.PNG)
 
 A screenshot image of the application.
 
